@@ -1,0 +1,29 @@
+{
+  "name": "wintersmith-search",
+  "version": "0.0.2",
+  "description": "wintersmith plugin to generate search.json for Simple-Jekyll-Search",
+  "main": "dist/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valantonini/wintersmith-search.git"
+  },
+  "keywords": [
+    "wintersmith-plugin",
+    "wintersmith",
+    "search",
+    "Simple-Jekyll-Search"
+  ],
+  "author": "val antonini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valantonini/wintersmith-search/issues"
+  },
+  "homepage": "https://github.com/valantonini/wintersmith-search#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "wintersmith-contents": "^1.0.0"
+  }
+}
