@@ -1,5 +1,6 @@
 # wintersmith-search
 
+[![Build Status](https://travis-ci.org/valantonini/wintersmith-search.svg?branch=master)](https://travis-ci.org/valantonini/wintersmith-search)
 ![npm](https://img.shields.io/npm/v/wintersmith-search.svg)
 ![npm](https://img.shields.io/npm/dt/wintersmith-search.svg)
 
