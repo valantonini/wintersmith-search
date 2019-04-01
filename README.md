@@ -1,5 +1,8 @@
 # wintersmith-search
 
+![npm](https://img.shields.io/npm/v/wintersmith-search.svg)
+![npm](https://img.shields.io/npm/dt/wintersmith-search.svg)
+
 A plugin to generate a search.json to be used with [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search).
 
 Requires wintersmith-contents
