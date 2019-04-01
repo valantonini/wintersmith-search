@@ -4,7 +4,7 @@
   "description": "wintersmith plugin to generate search.json for Simple-Jekyll-Search",
   "main": "dist/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
